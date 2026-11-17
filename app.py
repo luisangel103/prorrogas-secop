@@ -566,7 +566,8 @@ with tab4:
         if el["fuente_respuesta"].startswith("PROVISIONAL"):
             st.warning("Resultados provisionales: la respuesta correcta todavía no es la del etiquetado a ciegas del equipo.")
         else:
-            st.markdown(f"Respuesta correcta: {el['fuente_respuesta'].lower()}.")
+            fr = el["fuente_respuesta"]  # solo la primera letra en minúscula: «Claude Opus» conserva la mayúscula
+            st.markdown(f"Respuesta correcta: {fr[:1].lower() + fr[1:]}.")
         filas = [{"Clasificador": v["variante"], "Exactitud": v["exactitud"] * 100,
                   "Con causa explícita": (v["exactitud_con_causa_explicita"] or 0) * 100,
                   "Sin causa": (v["exactitud_sin_causa"] or 0) * 100, "F1 macro": v["f1_macro"],
