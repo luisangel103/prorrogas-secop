@@ -1,0 +1,13 @@
+# Estilo de senalizacion vial de obra (el mismo del anteproyecto): amarillo sobre asfalto
+[theme]
+base = "dark"
+primaryColor = "#F5B800"
+backgroundColor = "#1F2326"
+secondaryBackgroundColor = "#2B3036"
+textColor = "#EEEFEC"
+
+[server]
+headless = true
+
+[browser]
+gatherUsageStats = false
