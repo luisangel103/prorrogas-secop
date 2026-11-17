@@ -1,0 +1,7 @@
+{
+  "roc_auc_con_fuga": 0.8101589861330011,
+  "variables": [
+    "ratio_plazo",
+    "ratio_valor"
+  ]
+}

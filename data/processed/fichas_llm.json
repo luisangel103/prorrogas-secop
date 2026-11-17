@@ -1,0 +1,137 @@
+{
+ "8532bfb044a7db5b": {
+  "texto": "**Riesgo:** Alto, con una probabilidad de prórroga de 97 %.\n\n**Por qué:** Se prorrogó el 83 % de contratos de prueba con este nivel, frente a 59 % de un contrato promedio. Suben el riesgo el valor por día de plazo ($79 M por día), el valor pactado ($16,8 mil M) y el departamento Caldas; baja el mes de firma (jun). No hay alertas por reglas.\n\n**Antecedentes:** La entidad prorrogó 177 de 271 contratos vencidos (65 %). Sus causas más comunes son mayores cantidades de obra (12 %), suspensión (1 %) y trámites administrativos (1 %); el 85 % de las justificaciones no dice la causa.\n\n**Qué hacer:** Antes de firmar, revisar si los 213 días son realistas frente al alcance, sobre todo por posibles mayores cantidades de obra. Pedir un cronograma detallado y hacer seguimiento quincenal desde el inicio.",
+  "modelo": "claude-haiku-5-5",
+  "usd": 0.000869,
+  "segundos": 9.967927694320679,
+  "no_respaldadas": [],
+  "fecha": "2026-11-15T17:51:14",
+  "etiqueta": "prueba CO1.PCCNTR.7906011"
+ },
+ "d618f9e19270f9a3": {
+  "texto": "**Riesgo:** Alto. La probabilidad de prórroga de este contrato es del 87 %, frente a un 59 % en un contrato promedio.\n\n**Por qué:** Pesan el valor por día de plazo ($34 M por día), el valor pactado ($6,3 mil M), los 44 oferentes y la modalidad de licitación pública. Como atenuantes figuran el historial de la entidad (1 de 7 contratos vencidos se prorrogaron, es decir, el 14 %) y que el departamento es Bolívar. No hay alertas por reglas.\n\n**Antecedentes:** Las causas más comunes en la entidad son las mayores cantidades de obra (16 %), los recursos y pagos (3 %) y el clima y lluvias (2 %). El ámbito Bolívar tiene pocas justificaciones y el 71 % no indica la causa.\n\n**Qué hacer:** Antes de firmar, revisar que los 182 días sean realistas frente al alcance, prestando atención a posibles mayores cantidades de obra. Pedir un cronograma detallado y hacer seguimiento quincenal desde el inicio.",
+  "modelo": "claude-haiku-5-5",
+  "usd": 0.0003239,
+  "segundos": 2.0223357677459717,
+  "no_respaldadas": [],
+  "fecha": "2026-11-15T17:51:16",
+  "etiqueta": "prueba CO1.PCCNTR.7050971"
+ },
+ "ac2c9abd151227c1": {
+  "texto": "**Riesgo:** Alto. La probabilidad de prórroga es del 73 %, frente al 59 % de un contrato promedio.\n\n**Por qué:** Pesan el valor pactado de $945 M, el valor por día de plazo de $8 M y la firma en jul. Además, las adiciones ya suman 50% del valor inicial y solo quedan $1 M antes del tope legal (Ley 80 de 1993, art. 40). Si hace falta más, hay que revisar el alcance, no adicionar.\n\n**Antecedentes:** La entidad prorrogó el 73 % de sus 565 contratos vencidos. Las causas más comunes son las mayores cantidades de obra (11 %) y la suspensión (10 %). El 71 % de las justificaciones no dice la causa.\n\n**Qué hacer:** Pedir un cronograma detallado, realista frente al alcance, y hacer seguimiento quincenal desde el inicio, con atención especial a las mayores cantidades de obra y a las suspensiones.",
+  "modelo": "claude-haiku-5-5",
+  "usd": 0.0006636,
+  "segundos": 4.553008794784546,
+  "no_respaldadas": [],
+  "fecha": "2026-11-15T17:51:21",
+  "etiqueta": "prueba CO1.PCCNTR.8123480"
+ },
+ "16c4d51ef727048a": {
+  "texto": "**Riesgo:** Alto. La probabilidad de prórroga es del 96 %.\n\n**Por qué:** Valor por día de plazo: $32 M por día. Valor pactado: $3,9 mil M. Modalidad: Licitación pública Obra Publica. No hay factores que bajen el riesgo ni alertas por reglas.\n\n**Antecedentes:** La entidad tiene 84 contratos de obra ya vencidos y se prorrogó el 80 %. Causas más comunes: mayores cantidades de obra (22 %), suspensión (5 %) y trámites administrativos (4 %).\n\n**Qué hacer:** Antes de firmar, revisar si los 122 días son realistas frente al alcance y a las mayores cantidades de obra. Pedir un cronograma detallado y hacer seguimiento quincenal desde el inicio.",
+  "modelo": "claude-haiku-5-5",
+  "usd": 0.0007689999999999999,
+  "segundos": 5.005560398101807,
+  "no_respaldadas": [],
+  "fecha": "2026-11-15T17:51:26",
+  "etiqueta": "prueba CO1.PCCNTR.7163403"
+ },
+ "458a602286321d1b": {
+  "texto": "**Riesgo:** Nivel Medio, con probabilidad de prórroga de 68 %. En contratos de prueba con este nivel se prorrogó el 56 %, y en un contrato promedio, el 59 %.\n\n**Por qué:** Suben el riesgo la modalidad Licitación pública Obra Publica, la rama Legislativo, la firma en dic y el consorcio o unión temporal (Si). Bajan el riesgo el departamento Huila y el historial de la entidad. Alerta por reglas: SECOP ya registra una prórroga, con 2 modificaciones publicadas y unos 225 días más que el plazo pactado.\n\n**Antecedentes:** La entidad tiene 1 contratos de obra ya vencidos; se prorrogó el 0 %. En Huila, la causa más común es la mayor cantidad de obra (18 %), aunque la entidad tiene pocas justificaciones registradas.\n\n**Qué hacer:** Haga seguimiento mensual del avance frente al cronograma y verifique si las cantidades de obra están cambiando respecto a lo pactado. Como ya hay una prórroga registrada, revise en SECOP las justificaciones de las modificaciones antes de aprobar cualquier nueva ampliación.",
+  "modelo": "claude-haiku-5-5",
+  "usd": 0.0007297,
+  "segundos": 4.949257850646973,
+  "no_respaldadas": [],
+  "fecha": "2026-11-15T17:51:31",
+  "etiqueta": "prueba CO1.PCCNTR.8708108"
+ },
+ "736ccc9d10c46299": {
+  "texto": "**Riesgo:** Nivel Medio, con una probabilidad de prórroga del 53 %. En contratos de prueba con este nivel se prorrogó el 56 %, y la probabilidad de un contrato promedio es del 59 %.\n\n**Por qué:** Suben el riesgo el departamento Caldas, el valor por día de plazo de $5 M por día, el valor pactado de $372 M y que no hay pago adelantado. Lo que lo baja es el mes de firma (oct), el número de oferentes (2 oferentes) y que el tipo de obra no tiene código. No hay alertas por reglas.\n\n**Antecedentes:** La entidad tiene 3 contratos de obra ya vencidos, y se prorrogó el 67 %. Las causas más comunes en Caldas son las mayores cantidades de obra (10 %), la suspensión (2 %) y el clima y las lluvias (2 %). El 82 % de las justificaciones no dice la causa.\n\n**Qué hacer:** Haga seguimiento mensual del avance frente al cronograma de los 75 días. Vigile especialmente las mayores cantidades de obra, que es la causa más frecuente, y exija que las justificaciones indiquen la causa concreta.",
+  "modelo": "claude-haiku-5-5",
+  "usd": 0.0003338,
+  "segundos": 2.2019288539886475,
+  "no_respaldadas": [],
+  "fecha": "2026-11-15T17:51:33",
+  "etiqueta": "prueba CO1.PCCNTR.8436976"
+ },
+ "977d641be889775e": {
+  "texto": "**Riesgo:** Nivel medio, con una probabilidad de prórroga del 42 %. En contratos de prueba con este nivel se prorrogó el 56 %, frente al 59 % de un contrato promedio.\n\n**Por qué:** Suben el riesgo la rama Corporación Autónoma, el historial de la entidad (58 de 111 contratos vencidos se prorrogaron), el tipo de obra 7214 · Construcción pesada (vías, puentes, redes) y el departamento Cauca. Bajan el riesgo el valor por día de plazo ($498 mil por día), el valor pactado ($61 M) y el número de oferentes (1 oferentes). No hay alertas por reglas.\n\n**Antecedentes:** La entidad tiene 111 contratos de obra ya vencidos y se prorrogó el 52 %. La causa más común de prórroga es mayores cantidades de obra (13 %), seguida de diseños y estudios (2 %) y trámites administrativos (2 %). El 77 % de las justificaciones no dicen la causa.\n\n**Qué hacer:** Haga seguimiento mensual del avance frente al cronograma, prestando atención a mayores cantidades de obra, y exija que las justificaciones de prórroga indiquen la causa concreta.",
+  "modelo": "claude-haiku-5-5",
+  "usd": 0.0003594,
+  "segundos": 1.9659595489501953,
+  "no_respaldadas": [],
+  "fecha": "2026-11-15T17:51:36",
+  "etiqueta": "prueba CO1.PCCNTR.6692541"
+ },
+ "cfbb9a1d79f4763e": {
+  "texto": "**Riesgo:** Bajo. La probabilidad de prórroga de este contrato es 38 %, frente a 59 % de un contrato promedio.\n\n**Por qué:** El valor por día de plazo es alto ($5 M por día) y el contrato no tiene pago adelantado, lo que sube el riesgo. Por otro lado, el código de obra no está definido (\"Sin código\"), la entidad no tiene contratos vencidos previos y solo hubo 1 oferente, lo que lo baja. No hay alertas por reglas.\n\n**Antecedentes:** Las causas más comunes de prórroga en Santander son mayores cantidades de obra (15 %), suspensión (2 %) y trámites administrativos (1 %). La entidad tiene pocas justificaciones registradas en la región, y el 80 % de ellas no indican la causa.\n\n**Qué hacer:** Mantener el seguimiento normal, como recomienda el nivel de riesgo. Revisar desde el inicio que las cantidades de obra del mantenimiento y de la adecuación del espacio público coincidan con lo pactado, para anticipar la causa más frecuente de prórroga.",
+  "modelo": "claude-haiku-5-5",
+  "usd": 0.00032419999999999997,
+  "segundos": 2.211376428604126,
+  "no_respaldadas": [],
+  "fecha": "2026-11-15T17:51:38",
+  "etiqueta": "prueba CO1.PCCNTR.8581847"
+ },
+ "13e541c52f029faa": {
+  "texto": "**Riesgo:** Bajo. La probabilidad de prórroga de este contrato es del 25 %, por debajo de la de un contrato promedio (59 %).\n\n**Por qué:** Pesan a favor la modalidad de mínima cuantía, el valor pactado de $36 M y el valor por día de plazo de $396 mil por día. En contra pesan que el tipo de obra es 7211 · Edificaciones residenciales y que la entidad es descentralizada. No hay alertas por reglas.\n\n**Antecedentes:** La entidad ha tenido 6 contratos de obra ya vencidos, de los cuales se prorrogó el 50 %. Sus causas más frecuentes son trámites administrativos (12 %), predios y permisos (6 %) y mayores cantidades de obra (6 %). El 75 % de sus justificaciones no dice la causa.\n\n**Qué hacer:** Hacer seguimiento normal, como recomienda el modelo, y vigilar desde el inicio los trámites administrativos y la obtención de predios y permisos, que son las causas más comunes. Exigir que cualquier solicitud de prórroga indique expresamente su causa.",
+  "modelo": "claude-haiku-5-5",
+  "usd": 0.0003195,
+  "segundos": 2.6029884815216064,
+  "no_respaldadas": [],
+  "fecha": "2026-11-15T17:51:41",
+  "etiqueta": "prueba CO1.PCCNTR.6829630"
+ },
+ "af21751c6314abc1": {
+  "texto": "**Riesgo:** Bajo. La probabilidad de prórroga de este contrato es del 22 %.\n\n**Por qué:** Suben el riesgo el valor pactado de $805 M, el valor por día de plazo de $5 M por día y la firma en diciembre. Lo que lo baja es el historial de la entidad, con 1 de 20 contratos vencidos prorrogados (historial de la entidad: 20 contratos de obra ya vencidos; se prorrogó el 5 %), además de la modalidad de contratación y el departamento. No hay alertas por reglas.\n\n**Antecedentes:** En Chocó, la entidad tiene pocas justificaciones registradas (311 en el ámbito). Las causas más comunes son la suspensión (5 %), el clima y las lluvias (4 %) y las mayores cantidades de obra (2 %). El 84 % de las justificaciones no dice la causa.\n\n**Qué hacer:** Mantener el seguimiento normal, como sugiere el nivel de riesgo. Como el plazo es de 152 días, conviene revisar desde ahora cualquier suspensión o efecto de lluvias sobre el cronograma, que son las causas más frecuentes, y documentarlas por escrito para justificar una eventual prórroga.",
+  "modelo": "claude-haiku-5-5",
+  "usd": 0.00033949999999999996,
+  "segundos": 2.2204036712646484,
+  "no_respaldadas": [],
+  "fecha": "2026-11-15T17:51:43",
+  "etiqueta": "prueba CO1.PCCNTR.7069095"
+ },
+ "b611d87cdc658975": {
+  "texto": "**Riesgo:** Alto, con probabilidad de prórroga del 85 %. En contratos de prueba con este nivel se prorrogó el 83 %.\n\n**Por qué:** Pesan el valor pactado ($4,4 mil M), el costo de $18 M por día y el historial: 13 de 19 contratos vencidos se prorrogaron. Bajan el riesgo la modalidad y el sector.\n\n**Antecedentes:** Se prorrogó el 68 % de sus 19 contratos vencidos. Causas frecuentes: mayores cantidades de obra (14 %), clima y lluvias (5 %) y trámites administrativos (3 %). El 67 % de las justificaciones no dice la causa.\n\n**Qué hacer:** Antes de firmar, confirmar que los 243 días sean realistas frente al alcance y a las mayores cantidades de obra. Pedir un cronograma detallado y hacer seguimiento quincenal desde el inicio.",
+  "modelo": "claude-haiku-5-5",
+  "usd": 0.001004,
+  "segundos": 6.868573427200317,
+  "no_respaldadas": [],
+  "fecha": "2026-11-15T17:51:50",
+  "etiqueta": "demo 1 CO1.PCCNTR.9724237"
+ },
+ "2343952f62016594": {
+  "texto": "**Riesgo:** Alto. La probabilidad de prórroga es 85 %.\n\n**Por qué:** Contratos con este nivel se prorrogaron en 83 %, frente a 59 % de un contrato promedio. Pesan el valor pactado de $2,9 mil M, el plazo de 152 días ($19 M por día) y la licitación con 50 oferentes. No hay alertas por reglas.\n\n**Antecedentes:** La entidad tiene 43 contratos de obra vencidos y se prorrogó el 33 %. En el Huila, las causas más comunes son mayores cantidades de obra (18 %), suspensión (4 %) y suministros y materiales (2 %).\n\n**Qué hacer:** Antes de firmar, revisar que los 152 días sean realistas frente al alcance, sobre todo ante posibles mayores cantidades de obra, y pedir un cronograma detallado. Desde el inicio, hacer seguimiento quincenal.",
+  "modelo": "claude-haiku-5-5",
+  "usd": 0.0006849,
+  "segundos": 4.762470960617065,
+  "no_respaldadas": [],
+  "fecha": "2026-11-15T17:51:55",
+  "etiqueta": "demo 2 CO1.PCCNTR.6360119"
+ },
+ "7d108c28a92dcbc1": {
+  "texto": "**Riesgo:** Bajo. La probabilidad de prórroga de este contrato es de 20 %, frente a un 59 % de un contrato promedio. En contratos de prueba con este nivel, se prorrogó el 31 %.\n\n**Por qué:** Suben el riesgo que la firma fue en jul y que es consorcio o unión temporal. Bajan el riesgo que la entidad solo prorrogó el 2 % de sus 47 contratos de obra vencidos, que el departamento es Chocó y que el tipo de obra no tiene código. No hay alertas por reglas.\n\n**Antecedentes:** La entidad tuvo 29 justificaciones de prórroga. Las causas más comunes fueron mayores cantidades de obra (14 %), clima y lluvias (7 %) y suspensión (3 %). El 76 % de las justificaciones no dice la causa.\n\n**Qué hacer:** Aplicar seguimiento normal, como recomienda el nivel de riesgo. Verificar desde el inicio la programación de obra y las cantidades reales, porque las mayores cantidades son la causa más frecuente, y cuidar el cronograma en época de lluvias.",
+  "modelo": "claude-haiku-5-5",
+  "usd": 0.0003298,
+  "segundos": 2.012036085128784,
+  "no_respaldadas": [],
+  "fecha": "2026-11-15T17:51:57",
+  "etiqueta": "demo 3 CO1.PCCNTR.6478006"
+ },
+ "5d29fb6960f9199d": {
+  "texto": "**Riesgo:** Alto. Probabilidad de prórroga del 75 %, frente a un 59 % de un contrato promedio.\n\n**Por qué:** El valor pactado es $1,1 mil M y el contrato se firmó en mar. La entidad prorrogó el 73 % de sus contratos vencidos. Las adiciones suman 47% del valor inicial y solo quedan $28 M antes del tope del 50 % (Ley 80 de 1993, art. 40). SECOP ya registra una prórroga: unos 1 días más que el plazo pactado.\n\n**Antecedentes:** Las causas más frecuentes en la entidad son mayores cantidades de obra (11 %) y suspensiones (10 %).\n\n**Qué hacer:** Pedir un cronograma detallado y hacer seguimiento quincenal desde ya. Revisar si los 274 días son realistas frente al alcance. Si faltan cantidades, revisar el alcance antes que adicionar.",
+  "modelo": "claude-haiku-5-5",
+  "usd": 0.0008841,
+  "segundos": 6.141187429428101,
+  "no_respaldadas": [],
+  "fecha": "2026-11-15T17:52:04",
+  "etiqueta": "demo 4 CO1.PCCNTR.9366598"
+ },
+ "889557687f532244": {
+  "texto": "**Riesgo:** Alto. La probabilidad de prórroga es 99 %.\n\n**Por qué:** Suben el riesgo el valor pactado ($1.408,1 mil M), el plazo (122 días), la modalidad Licitación pública Obra Publica y los 57 oferentes. Hay alertas por reglas: el valor por día de plazo ($11,6 mil M por día) y el valor pactado están fuera del rango histórico, así que revise que estén bien registrados.\n\n**Antecedentes:** La entidad prorrogó el 29 % de sus 34 contratos de obra vencidos. Sus causas más comunes son mayores cantidades de obra (11 %), recursos y pagos (6 %) y clima y lluvias (3 %).\n\n**Qué hacer:** Antes de firmar, confirme que los 122 días sean realistas frente al alcance y a esas causas, y corrija los datos de valor y plazo si están mal registrados. Pida un cronograma detallado y haga seguimiento quincenal desde el inicio.",
+  "modelo": "claude-haiku-5-5",
+  "usd": 0.0009239000000000001,
+  "segundos": 6.000302314758301,
+  "no_respaldadas": [],
+  "fecha": "2026-11-15T17:52:10",
+  "etiqueta": "demo 5 CO1.PCCNTR.7769534"
+ }
+}
