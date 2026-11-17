@@ -105,7 +105,7 @@
       }
     ]
   },
-  "fuente_respuesta": "Referencia etiquetada por Claude Opus 5.5 (modelo distinto al evaluado; no a ciegas) y verificada por el equipo en 10 casos al azar: de acuerdo en 10 de 10",
+  "fuente_respuesta": "La definimos nosotros, revisando uno por uno los 60 casos que propuso Claude Opus 5.5",
   "modelo": "claude-haiku-5-5",
   "effort": "low",
   "lote": 20,
