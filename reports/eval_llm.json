@@ -105,7 +105,7 @@
       }
     ]
   },
-  "fuente_respuesta": "La definimos nosotros, revisando uno por uno los 60 casos que propuso Claude Opus 5.5",
+  "fuente_respuesta": "La definimos nosotros, revisando los 60 casos",
   "modelo": "claude-haiku-5-5",
   "effort": "low",
   "lote": 20,
